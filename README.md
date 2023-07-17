@@ -6,7 +6,7 @@
 
 Projeto construído no curso explore da Rocketseat🚀.
 
-[📎 Clique aqui para acessar](https://gabrielobatocabral.github.io/listagem-marvel/)
+[📎 Clique aqui para acessar](https://gabrielobatocabral.github.io/Projeto3_Form/)
 
 ## 🛠️ Tecnologias
 
